@@ -6,7 +6,7 @@ Third-year Software Engineering student at the University of Glasgow. I build ba
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Foresight · ED-72](https://github.com/foresight-junction/foresight) | Benchmark for AI agents managing a simulated emergency department over 72 hours. Built at Junction 2026. I built the evaluation runner and score reporting. | Python, Harbor, Docker, TypeScript |
+| [Foresight · ED-72](https://github.com/foresight-junction/foresight) · [Replay](https://foresight-junction.github.io/foresight/?replay=gemini-seed42.json&tick=59) | Benchmark for AI agents managing a simulated emergency department over 72 hours. Built at Junction 2026. I built the evaluation runner and score reporting. | Python, Harbor, Docker, TypeScript |
 | [Avenir](https://github.com/yehorm14/avenir) | Career-decision tool for UK school leavers, built on real pay, employment and automation data. Team of 5 at GUTS 2026; I owned the API contract, data pipeline and integration. | Python, FastAPI, React |
 | [Volunteer Task Manager](https://github.com/yehorm14/volunteer_api) | Task manager with JWT authentication and optional GPT task extraction from free-text notes. Solo project. | FastAPI, SQLAlchemy, React, TypeScript |
 | [Attune](https://github.com/saliha006/Great-Uni-Hack-2026) | Study app that tests three study methods on your notes and adapts to your attention. Team of 3 at Great Uni Hack 2026; I built the learning engine and data layer. | FastAPI, SQLModel, React |
